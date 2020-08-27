@@ -1,0 +1,4 @@
+{
+  "exchangeUrl": "https://api.simpleswap.io/v1/get_estimated?api_key=${simpleSwalApi}&fixed=false&currency_from=${from}&currency_to=${to}&amount=${amt}",
+  "type": "api"
+}

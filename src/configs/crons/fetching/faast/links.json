@@ -1,0 +1,4 @@
+{
+  "exchangeUrl": "https://api.faa.st/api/v2/public/price/${from_to}?&affiliate_margin=${faaStAffiliateMargin}",
+  "type": "api"
+}

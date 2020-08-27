@@ -1,0 +1,4 @@
+{
+  "exchangeUrl": "https://api.changenow.io/v1/exchange-amount/${amt}/${from_to}/?api_key=${changeNowApi}",
+  "type": "api"
+}
